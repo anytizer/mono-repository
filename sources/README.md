@@ -1,0 +1,1 @@
+Be sure NOT to share the credentials over git.
