@@ -1,0 +1,4 @@
+.dashboard { width: 685px; border: 1px solid red; min-height: 300px; overflow: visible; }
+.dashboard .icon { float: left; margin: 5px; padding: 5px;}
+.dashboard .icon img { height: 100px; width: 150px; background-color: yellow; }
+.dashboard .icon .name { background-color: teal; padding: 5px; line-height: 1em; overflow: hidden; }
